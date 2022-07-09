@@ -1,6 +1,6 @@
 # (https://raw.githubusercontent.com/Manrrolo/Manrrolo/master/perfil.png) Hola, mi nombre es Manuel
 
-![https://github.com/Manrrolo](https://raw.githubusercontent.com/Manrrolo/Manrrolo/master/fondo.png)
+![https://github.com/Manrrolo](https://raw.githubusercontent.com/Manrrolo/Manrrolo/master/fondo.jpg)
 
 ## Skills:
 
