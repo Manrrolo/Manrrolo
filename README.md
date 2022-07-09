@@ -1,8 +1,8 @@
-# (https://raw.githubusercontent.com/Manrrolo/Manrrolo/master/perfil.png) Hola, mi nombre es Manuel
+# Hola, mi nombre es Manuel
 
 ![https://github.com/Manrrolo](https://raw.githubusercontent.com/Manrrolo/Manrrolo/master/fondo.jpg)
 
-## Skills:
+## Conocimiento:
 
 [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
